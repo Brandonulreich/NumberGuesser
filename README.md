@@ -1,2 +1,2 @@
-# NumberGuesser
+# Testing
 Simple number guessing game
